@@ -25,7 +25,7 @@ A collection of tools to help process files downloaded from the **MCA (Ministry 
 
 ---
 
-### 2. Productivity/File Counter (Python)
+### 3. Productivity/File Counter (Python)
 - Counts the number of files in specific subfolders inside each main folder.
 - Handles missing subfolders (places 0 in the respective column).
 - Generates an Excel file with file counts for each subfolder.
