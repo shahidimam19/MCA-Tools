@@ -37,3 +37,4 @@ Get-ChildItem -Recurse -File | Where-Object {
 
     Copy-Item $_.FullName $target
 }
+
